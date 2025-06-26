@@ -89,8 +89,8 @@ PythonとHTMLを組み合わせることで、Webアプリを作ることがで�
 1. 以下のリンクを開く
 	1. [Webアプリを作ってみよう.ipynb](https://colab.research.google.com/github/Cicceno-Citta/starter/blob/main/2026/説明会&体験会/資料/Webアプリを作ってみよう.ipynb)
 2. 「ドライブにコピー」をクリックする
-3. `templates`フォルダをつくる
-4. HTMLファイルをアップロードする
+3. 1つ目のコードブロックを実行する
+4. `templates`フォルダにHTMLファイルをアップロードする
 5. 実行してみる
 6. 表示されたリンクにアクセスする
 7. ファイル内の指示に従って、引き算をするページを作ってみる
