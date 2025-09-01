@@ -1,4 +1,4 @@
-# Welcome to the Cicceno-Citta Sys-Dev Team!
+# Welcome to Cicceno-Citta Sys-Dev Team!
 
 ## 目次
 
