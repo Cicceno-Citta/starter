@@ -6,7 +6,7 @@
 
 ## PC基礎講座
 
-[PC基礎講座 目次](PC基礎講座/README.md)
+[PC基礎講座](PC基礎講座/README.md)
 
 ## 今後の流れ
 
