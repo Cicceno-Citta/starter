@@ -2,7 +2,7 @@
 
 ## 顔合わせ
 
-アイスブレイク(自己紹介)
+[ウソ・ホント自己紹介](https://docs.google.com/document/d/1yXZeRlULdLS3N4P9RKWxC1_YHtVX59upps7bPplGmeE/edit?usp=sharing)
 
 ## PC基礎講座
 

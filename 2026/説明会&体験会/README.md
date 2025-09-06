@@ -72,7 +72,7 @@ WEBサイトの内容や見た目を制御するプログラミング言語[^1]�
 #### 流れ
 
 1. 以下のファイルをダウンロードする
-	1. [templates.zip](./資料/templates.zip)
+	1. [templates.zip](attachments/templates.zip)
 2. ダウンロードしたファイルを解凍する
 3. 以下のリンクを開く
 	1. [VSCode](https://vscode.dev)
